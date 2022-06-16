@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, grading policy, deadlines, and the schedule of lecture topics, readings,
+  and assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -44,7 +47,7 @@ Video project due in SES #11
 Calendar
 --------
 
-The following table indicates which topics, readings, and questions were covered during each class session. For the full citations of the assigned readings, please see the [Readings]({{< baseurl >}}/pages/readings) page.
+The following table indicates which topics, readings, and questions were covered during each class session. For the full citations of the assigned readings, please see the {{% resource_link 6eae2b73-7768-17cf-bf89-6ccca9d6f060 "Readings" %}} page.
 
 {{< tableopen >}}
 {{< theadopen >}}
