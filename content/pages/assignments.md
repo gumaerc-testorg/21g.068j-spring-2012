@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides details on the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 9fd2f831-3644-d2ad-d6a5-42ae6fadf4b9
 ---
 
-Apart from doing the weekly [Readings]({{< baseurl >}}/pages/readings), students are required to complete three types of assignments for this course:
+Apart from doing the weekly {{% resource_link 6eae2b73-7768-17cf-bf89-6ccca9d6f060 "Readings" %}}, students are required to complete three types of assignments for this course:
 
 *   **Oral presentation**: Students are required to present on the weekly theme for one session (they will choose which session they will present upon on the first day of class). Presentations will be given either individually or in pairs and should be limited to 10 minutes maximum. During the presentation, students will be required to speak to the class rather than read a pre-written text.
 *   **Short-answer papers**: For the sessions in the table below with a question listed, students will be required to write a short, half-page argument in response to the question (which in turn relates to the weekly theme).
