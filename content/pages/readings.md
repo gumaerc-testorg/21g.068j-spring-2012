@@ -37,9 +37,9 @@ Is There French Theory in This Class?
 {{< tdopen >}}
 
 
-Foucault, Michel. "[This is Not a Pipe](http://individual.utoronto.ca/bmclean/hermeneutics/foucault_suppl/this_is_not_a_pipe.htm)." _Les Cahiers du chemin,_ n°2 (1968): 79–195.
+Foucault, Michel. "{{% resource_link "32eba364-0437-4152-9bc2-0ecd540b5fc1" "This is Not a Pipe" %}}." _Les Cahiers du chemin,_ n°2 (1968): 79–195.
 
-Magritte, René. "[Les deux mystères](http://www.mattesonart.com/Blog/ViewPost.aspx?pageid=1&ItemID=93&mid=1)." Painting, 1966.
+Magritte, René. "{{% resource_link "89ebebd4-9579-4e42-b91a-8ec141f205de" "Les deux mystères" %}}." Painting, 1966.
 
 
 {{< tdclose >}}
@@ -79,11 +79,11 @@ The Genesis of May 1968
 {{< tdopen >}}
 
 
-Sartre, Jean-Paul. "[Existentialism is a Humanism](http://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm)." Text from a lecture given in 1946.
+Sartre, Jean-Paul. "{{% resource_link "59788ec6-0bf8-4732-8051-1d2c26d0d1ce" "Existentialism is a Humanism" %}}." Text from a lecture given in 1946.
 
-Debord, Guy-Ernest. "[Separation Perfected](http://library.nothingness.org/articles/SI/en/display/16)." Chapter 1 from _The Society of the Spectacle_. Black & Red, 2000. ISBN: 9780934868075.
+Debord, Guy-Ernest. "{{% resource_link "d4dd6600-0ee4-40a3-9f4c-76a4e1c822e4" "Separation Perfected" %}}." Chapter 1 from _The Society of the Spectacle_. Black & Red, 2000. ISBN: 9780934868075.
 
-Movie: [_Pierrot le Fou_](http://en.wikipedia.org/wiki/Pierrot_le_Fou). Directed by Jean-Luc Godard. 110 min. 1965.
+Movie: {{% resource_link "f0af1549-08cb-4047-9423-24686f320bf1" "_Pierrot le Fou_" %}}. Directed by Jean-Luc Godard. 110 min. 1965.
 
 
 {{< tdclose >}}
@@ -99,7 +99,7 @@ Revolution and its Outsiders: Women, Migrants, Sexual Minorities
 {{< tdopen >}}
 
 
-Deleuze, Gilles. _Anti-Oedipus_. Continuum, 2004, pp. 380–5. ISBN: 9780826476951. \[Preview with [Google Books](http://books.google.com/books?id=WvvQfxvGfpYC&pg=PA382=onepage)\]
+Deleuze, Gilles. _Anti-Oedipus_. Continuum, 2004, pp. 380–5. ISBN: 9780826476951. \[Preview with {{% resource_link "0a49f02b-860c-476d-9013-d42ebaa20c58" "Google Books" %}}\]
 
 Foucault, Michel, and R. Hurley. "Part Four: The Deployment of Sexuality. Chapter 2: Method." In _The History of Sexuality. Volume I: An Introduction_. Translated by Robert Hurley. Viking, 1979, pp. 92–102. ISBN: 9780713910940.
 
@@ -117,9 +117,9 @@ The Capitalist Machine: Society as Prison
 {{< tdopen >}}
 
 
-Foucault, Michel. "[Part Three: Discipline. Chapter 3: Panopticism](https://whatsmartgrlsrreadingtoday.wordpress.com/2011/01/30/discipline-and-punish-part-three-panopticism-3-1/)." In _D__iscipline and Punish: The Birth of the Prison_. Translated by Alan Sheridan. Vintage books, 1995, pp. 195–228. ISBN: 9780679752554.
+Foucault, Michel. "{{% resource_link "f366bb20-5b9c-4bdc-a69c-12080301237b" "Part Three: Discipline. Chapter 3: Panopticism" %}}." In _D__iscipline and Punish: The Birth of the Prison_. Translated by Alan Sheridan. Vintage books, 1995, pp. 195–228. ISBN: 9780679752554.
 
-Movie: [_Un prophète_](http://en.wikipedia.org/wiki/Un_proph%C3%A8te). Directed by Jacques Audiard. 150 min. 2009.
+Movie: {{% resource_link "285d56b3-c033-431f-8a0a-418b95224986" "_Un prophète_" %}}. Directed by Jacques Audiard. 150 min. 2009.
 
 
 {{< tdclose >}}
@@ -143,7 +143,7 @@ Cultural Mythologies
 
 Barthes, Roland. "The Great Family of Man," and "Myth Today." Extracts from _Mythologies_. Farrar, Straus and Giroux, 1972, pp. 100–2 and 109–12. ISBN: 9780374521509.
 
-Visit: [Museum of Fine Arts](http://www.mfa.org/)
+Visit: {{% resource_link "2f5f97fe-4bd2-4ab8-8eb7-500bef108630" "Museum of Fine Arts" %}}
 
 
 {{< tdclose >}}
@@ -157,7 +157,7 @@ Visit: [Museum of Fine Arts](http://www.mfa.org/)
 The Idea of Europe
 {{< tdclose >}}
 {{< tdopen >}}
-Discussion with Professor Helen Drake, Loughborough University Schuman, Robert. "[Declaration May 9, 1950](http://www.robert-schuman.eu/declaration_9mai.php)."
+Discussion with Professor Helen Drake, Loughborough University Schuman, Robert. "{{% resource_link "cc1665cd-7814-4f36-8242-d0a0a075e583" "Declaration May 9, 1950" %}}."
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +173,7 @@ Discussion with Professor Helen Drake, Loughborough University Schuman, Robert. 
 
 Lacan, Jacques. Extract (on the language of self) from _Écrits: A Selection_. Routledge, 2007, pp. 96–7. ISBN: 9780415255462.
 
-Lyotard, Jean-François. "[The Nature of the Social Bond: The Postmodern Perspective](http://www.marxists.org/reference/subject/philosophy/works/fr/lyotard.htm)." Chapter 5 in _The Postmodern Condition: A Report on Knowledge._ University Of Minnesota Press, 1984. ISBN: 9780816611737.
+Lyotard, Jean-François. "{{% resource_link "8b5b11f2-c5ec-4740-a32b-75f13484fe93" "The Nature of the Social Bond: The Postmodern Perspective" %}}." Chapter 5 in _The Postmodern Condition: A Report on Knowledge._ University Of Minnesota Press, 1984. ISBN: 9780816611737.
 
 
 {{< tdclose >}}
@@ -189,9 +189,9 @@ Social Distinction
 {{< tdopen >}}
 
 
-Bourdieu, Pierre. _Distinction: A Social Critique of the Judgment of Taste_. Translated by Richard Nice. Harvard University Press, 1984, pp. 1–7. ISBN: 9780674212770. \[Preview with [Google Books](http://books.google.com/books?id=nVaS6gS9Jz4C&pg=PA1#v=onepage)\]
+Bourdieu, Pierre. _Distinction: A Social Critique of the Judgment of Taste_. Translated by Richard Nice. Harvard University Press, 1984, pp. 1–7. ISBN: 9780674212770. \[Preview with {{% resource_link "7fe91f0c-e5c6-40f7-b085-21caede1d549" "Google Books" %}}\]
 
-Movie: [_Le goût des autres_](http://en.wikipedia.org/wiki/Le_go%C3%BBt_des_autres). Directed by Agnès Jaoui. 112 minutes. 2000.
+Movie: {{% resource_link "e72da1a5-98dc-4082-9d25-c1350a7e404c" "_Le goût des autres_" %}}. Directed by Agnès Jaoui. 112 minutes. 2000.
 
 
 {{< tdclose >}}
@@ -215,7 +215,7 @@ Feminist and LGBT Politics: the Ethics of Ambiguities
 
 de Beauvoir, Simone. "Biological Data." Chapter 1 in _The Second Sex_. Translated by Constance Borde and Sheila Malovany-Chevallier. Vintage, 2011, pp. 21–4. ISBN: 9780307277787.
 
-Eribon, Didier. _Insult and the Making of the Gay Self_. Translated by Michael Lucey. Duke University Press, 2004, pp. 130–40. ISBN: 9780822333715. \[Preview with [Google Books](http://books.google.com/books?id=16l54RK1wzkC&pg=PR156#v=onepage)\]
+Eribon, Didier. _Insult and the Making of the Gay Self_. Translated by Michael Lucey. Duke University Press, 2004, pp. 130–40. ISBN: 9780822333715. \[Preview with {{% resource_link "ebdf0c0a-a8f0-4922-8e57-81baa36c25c2" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -233,7 +233,7 @@ Communities and Anticommunitarianism
 
 Blanchot, Maurice. _The Unavowable Community_. Translated by Pierre Joris. Station Hill Press, 1988, pp. 9–12, 24–6 and 54–7. ISBN: 9781581771046.
 
-Derrida, Jacques. _Of Grammatology_. Translated by Gayatri Chakravorty Spivak. The Johns Hopkins University Press, 1998, pp. 4–7, 110–3, and 140–3. ISBN: 9780801858307. \[Preview with [Google Books](http://books.google.com/books?id=7TDSAQAAQBAJ&pg=PA4=onepage)\]
+Derrida, Jacques. _Of Grammatology_. Translated by Gayatri Chakravorty Spivak. The Johns Hopkins University Press, 1998, pp. 4–7, 110–3, and 140–3. ISBN: 9780801858307. \[Preview with {{% resource_link "9955ef1b-2280-4b7f-9ac5-4c7d4bb9fc78" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -249,9 +249,9 @@ Postcolonial France
 {{< tdopen >}}
 
 
-Fanon, Frantz. _Black Skin, White Masks_. Translated by Richard Philcox. Grove Press, 2008, pp. 89–99. ISBN: 9780802143006. \[Preview with [Google Books](http://books.google.com/books?id=m5ysTujFqbgC&pg=PA89#v=onepage)\]
+Fanon, Frantz. _Black Skin, White Masks_. Translated by Richard Philcox. Grove Press, 2008, pp. 89–99. ISBN: 9780802143006. \[Preview with {{% resource_link "ad082657-9c58-493e-981f-29a9b495526b" "Google Books" %}}\]
 
-Movie: [_L’Esquive_](http://en.wikipedia.org/wiki/L%27Esquive). Directed by Abdel Kechiche. 117 minutes. 2003.
+Movie: {{% resource_link "ba3ec320-0a27-4dfd-8fac-61e5f5a1c368" "_L’Esquive_" %}}. Directed by Abdel Kechiche. 117 minutes. 2003.
 
 
 {{< tdclose >}}
